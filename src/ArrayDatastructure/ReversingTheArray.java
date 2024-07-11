@@ -2,7 +2,7 @@ package ArrayDatastructure;
 import java.util.Scanner;
 
 public class ReversingTheArray {
-    //can pass n instead of original_arr.length
+    //can pass n instead of original_arr.length.
     public static int[] reverse_arr(int[] original_arr)
     {
         int n = original_arr.length;
